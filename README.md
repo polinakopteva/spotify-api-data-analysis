@@ -10,3 +10,4 @@ To reach the goal I will:
 Data was taken via Spotify Web API. 
 ## Used libraries
 Pandas, Spotipy
+Link to Tableau Public viz - https://public.tableau.com/app/profile/polina.kopteva/viz/Musicpreferncesanalysis/Main
